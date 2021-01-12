@@ -22,6 +22,7 @@ body { font-size: 16px; font-family: '나눔고딕'; line-height: 1.5; color:#66
 .header_text > h1  p { font-size: 48px; font-family: '나눔명조';}
 .header_text > p { font-size: 22.4px; }
 
+#ourgally, #aboutus, #chefmenu, #roadmap, #reservation { padding-top: 120px !important; }
 #section { background: url(../img/bg.jpg) repeat center; text-align: center; position: relative;}
 #section > div { padding: 48px 0; }
 #section > .article6 { padding: 0; }
